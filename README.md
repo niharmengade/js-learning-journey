@@ -31,16 +31,16 @@ This repository is actively updated as I continue learning and building new Java
 ## 🚀 Live Projects
 
 - 🎨 **Color Switcher**  
-  http://127.0.0.1:5500/js.html
+  👉 [View Live Project](https://niharmengade.github.io/js-learning-journey/projectjs1/js.html)
 
 - ⚖️ **BMI Calculator**  
-  http://127.0.0.1:5500/pro2.html
+  👉 [View Live Project](https://niharmengade.github.io/js-learning-journey/projectjs2/pro2.html)
 
 - ⏰ **Live Clock**  
-  http://127.0.0.1:5500/pro3.html
+  👉 [View Live Project](https://niharmengade.github.io/js-learning-journey/projectjs3/pro3.html)
 
 - 🎯 **Guess the Number**  
-  http://127.0.0.1:5500/pro4.html
+  👉 [View Live Project](https://niharmengade.github.io/js-learning-journey/projectjs4/pro4.html)
 
 - 🎨 **Color Changer**  
-  http://127.0.0.1:5500/proasyn.html
+  👉 [View Live Project](https://niharmengade.github.io/js-learning-journey/projectjs5/proasyn.html)
