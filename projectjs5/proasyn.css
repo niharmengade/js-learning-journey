@@ -1,0 +1,53 @@
+#h2 {
+  margin: 0 auto 16px;
+  padding: 10px;
+  text-align: center;
+  background-color: green;
+  color: #f8fafc;
+  border-radius: 8px;
+  font-size: 24px;
+}
+
+#h1 {
+  margin: 0 auto 16px;
+  padding: 10px;
+  text-align: center;
+  background-color: red;
+  color: #f8fafc;
+  border-radius: 8px;
+  font-size: 24px;
+}
+
+#start {
+  margin: 100px auto;
+  padding: 20px 40px;
+  border: black;
+  border-radius: 40px;
+  background-color: red;
+  color: #e5e7eb;
+  font-size: 0.95rem;
+  cursor: pointer;
+  display: block;
+}
+
+#stop {
+  margin: 100px auto;
+  padding: 20px 40px;
+  border: black;
+  border-radius: 40px;
+  background-color: blue;
+  color: #fef3c7;
+  font-size: 0.95rem;
+  cursor: pointer;
+  display: block;
+}
+
+button:hover {
+  opacity: 0.9;
+  transform: translateY(-4px);
+}
+
+h2:hover {
+  opacity: 0.9;
+  transform: translateY(-4px);
+}
