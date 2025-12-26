@@ -1,0 +1,43 @@
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 200px;
+  height: 150px;
+  border: solid black 2px;
+  display: inline-block;
+  cursor: pointer;
+  transition:0.2 ease ,opacity 0.2s ease;
+}
+.button:hover{
+  transform: scale(1.08);
+  opacity: 0.85;
+}
+
+
+#red {
+  background: red;
+}
+
+#green {
+  background: green;
+}
+#blue {
+  background: blue;
+}
+#orange {
+  background: orange;
+}
+#yellow {
+  background: yellow;
+}
