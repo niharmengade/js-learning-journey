@@ -24,8 +24,9 @@ The goal of this repository is to:
 - Improve problem-solving skills
 - Maintain a record of my learning progress
 - Share my journey publicly on GitHub
+  
 
-- 📚 Learning Source
+## 📚 Learning Source
 All the concepts and projects in this repository were learned and built by following the Chai aur Code YouTube channel, which is owned and taught by Hitesh Choudhary.
 This repository reflects my personal practice and implementation while learning from his tutorials.
 Thank you, Hitesh Choudhary sir 🙏.
