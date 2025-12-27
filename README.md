@@ -27,9 +27,9 @@ The goal of this repository is to:
   
 
 ## 📚 Learning Source
-All the concepts and projects in this repository were learned and built by following the Chai aur Code YouTube channel, which is owned and taught by Hitesh Choudhary.
+All the concepts and projects in this repository were learned and built by following the **Chai aur Code** YouTube channel, which is owned and taught by **Hitesh Choudhary**.
 This repository reflects my personal practice and implementation while learning from his tutorials.
-Thank you, Hitesh Choudhary sir 🙏.
+Thank you, @hiteshchoudhary sir 🙏.
 
 ## 📈 Status
 This repository is actively updated as I continue learning and building new JavaScript projects.
